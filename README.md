@@ -1,1 +1,2 @@
-# Neural Nets and Deep Learning
+# ANLY590 
+Neural Nets and Deep Learning
