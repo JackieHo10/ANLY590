@@ -1,2 +1,2 @@
-# ANLY590 
-Neural Nets and Deep Learning
+# ANLY_590 
+Assignments for Neural Nets and Deep Learning
